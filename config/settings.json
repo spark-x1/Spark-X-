@@ -1,0 +1,12 @@
+{
+  "bot": {
+    "name": "Spark X",
+    "author": "Amon",
+    "prefix": "!",
+    "admins": ["254759006509@s.whatsapp.net"]  // Your admin number(s)
+  },
+  "plugins": {
+    "autoUpdate": true,
+    "disabled": []  // List plugins to disable (e.g., ["ai"])
+  }
+      
